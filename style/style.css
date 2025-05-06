@@ -40,6 +40,7 @@ h1, h2, h3, h4, h5, h6 {
     justify-content: center;
 }
 
+
 .conteudo-apresentacao h2{
     display: flex;
     padding: 30px 30px;
@@ -47,9 +48,9 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
 }
 
-.conteudo-apresentacao {
+.apresentacao {
     display: flex;
-    flex-direction: row
+    flex-direction: row;
 }
 
 .apresentacao-texto {
@@ -61,6 +62,7 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 690px;
 }
 
-.apresentacao-midia {
-    
+.apresentacao-video img {
+    height: 410px;
+    width: 716px;
 }
